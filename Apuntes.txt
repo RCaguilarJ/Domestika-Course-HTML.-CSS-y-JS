@@ -1,0 +1,7 @@
+* Para ahrehar un atributo de ancho de una imágen dese html podemos agregsr un strbuto de ancho a las misma
+ etiqueta de de la imágen
+
+ej. <img src="img/exis.png" width=200
+Esto hará que la imágen tenga el tamaño de 200 px 
+
+*Hay que asignarle a cada bloque (html,css, stles) en cada  bloque un section 
